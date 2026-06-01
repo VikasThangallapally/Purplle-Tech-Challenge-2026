@@ -16,6 +16,15 @@ Quick run commands
 - Regenerate zone visuals: `python scripts/run_zone_events.py`
 - Start dashboard: `streamlit run dashboard/app.py`
 
+Streamlit Cloud install command
+- Use this in Streamlit Cloud advanced settings:
+
+```bash
+pip install -r requirements-streamlit.txt
+```
+
+This keeps the Streamlit app lightweight and avoids installing the full API/ML stack that is not needed for the dashboard.
+
 Deployment steps
 1. Ensure `.env` is configured (use `.env.example` as template). Do NOT commit secrets.
 2. Build container: `docker build -t retail-intel .`
