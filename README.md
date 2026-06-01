@@ -95,12 +95,12 @@ Default Streamlit URL:
 
 ## Results (demo outputs)
 
-The repository includes curated demo outputs in the `outputs/` folder. Reviewers can evaluate the project without downloading CCTV footage.
+For a quick review, curated representative outputs are collected in `outputs_demo/`. These files are small, easy to view, and let reviewers evaluate detection, tracking, zoning, POS, and dashboard visuals without downloading raw CCTV footage or model weights.
 
-- Detection Output Images: `outputs/debug/CAM 1_detection.jpg`, `outputs/debug/CAM 2_detection.jpg`, `outputs/debug/CAM 3_detection.jpg`, `outputs/debug/CAM 4_detection.jpg`, `outputs/debug/CAM 5_detection.jpg`, `outputs/debug/first_detection.jpg`.
-- Tracking Output Images: example frames are available under `outputs/tracking/CAM 1/` (e.g. `frame_0001.jpg`, `frame_0050.jpg`, `frame_0100.jpg`).
-- Zone Mapping Images: `outputs/layout/zones_visualized.png`, `outputs/layout/zones_overlay.png`.
-- Dashboard Screenshot: see `outputs/debug/dashboard_screenshot.png` (or `outputs_demo/` README for the included screenshot path).
-- Analytics Summary: sample JSON artifacts are in `outputs/analytics/` (e.g. `store_metrics.json`, `funnel.json`, `journeys.json`, `conversion_report.json`).
+- Detection samples: [outputs_demo/detection/CAM 1_detection.jpg](outputs_demo/detection/CAM 1_detection.jpg), [outputs_demo/detection/CAM 2_detection.jpg](outputs_demo/detection/CAM 2_detection.jpg), [outputs_demo/detection/first_detection.jpg](outputs_demo/detection/first_detection.jpg)
+- Tracking samples: [outputs_demo/tracking/frame_0050.jpg](outputs_demo/tracking/frame_0050.jpg), [outputs_demo/tracking/frame_0100.jpg](outputs_demo/tracking/frame_0100.jpg)
+- Zone visualization: [outputs_demo/zones/zones_visualized.png](outputs_demo/zones/zones_visualized.png)
+- POS gallery sample: [outputs_demo/pos_gallery/01_None_trk2_f1.png](outputs_demo/pos_gallery/01_None_trk2_f1.png)
+- Dashboard screenshot: [outputs_demo/dashboard/dashboard_screenshot.png](outputs_demo/dashboard/dashboard_screenshot.png)
 
-If you want a single location for quick review, see `outputs_demo/README.md` which lists curated samples and instructions for regenerating them locally.
+See [outputs_demo/README.md](outputs_demo/README.md) for a short index and instructions to regenerate demo outputs locally.
