@@ -1,0 +1,170 @@
+{
+  "top_10_products": [
+    {
+      "product": "Good Vibes Brightening Sheet Mask - Rice (20 ml)",
+      "quantity": 11
+    },
+    {
+      "product": "Good Vibes Saffron Natural Glow Sheet Mask | For Glowing & Smooth Skin | Fights Signs Of Ageing  Treats Rough & Dull Skin (20 gm)",
+      "quantity": 11
+    },
+    {
+      "product": "Purplle Carry Bag Small 1.0 -1 cartoon = 250 qty. - 3 gm",
+      "quantity": 5
+    },
+    {
+      "product": "FACES CANADA 3 in 1 Flawless Matte Concealer - Caramel  8 gm | Full Coverage | Long Lasting | Hydrating Concealer for Dark Circles  Dark Spots & Blemishes | Brightens Under Eyes | Lightweight & Blendable",
+      "quantity": 2
+    },
+    {
+      "product": "Purplle Makeup Pouch JAS 25 - 40 gm",
+      "quantity": 2
+    },
+    {
+      "product": "NY Bae Dewy Creme Blush - Sweet Mauve 02 (5.5 ml) | Liquid Blush | Dewy & Bold Finish | Natural Glow | Lightweight Formula | Buildable Pigment | Everyday Makeup | Hydrating Blush | Silky & Weightless | Long-Lasting Wear",
+      "quantity": 2
+    },
+    {
+      "product": "FACES CANADA Beyond Shine Lip Gloss - Gleam Dream 11 | Lightweight Non-Sticky Luxurious Texture For Glossy Lips | Shimmer Finish | Instant Shine | Fuller  Supple & Plump Lips | 24 - HR Hydration - 3.8 ml",
+      "quantity": 2
+    },
+    {
+      "product": "Good Vibes Pearl Illuminating Sheet Mask | For Bright & Glowing Skin | Suitable For All Skin Types (20 gm)",
+      "quantity": 2
+    },
+    {
+      "product": "GUBB Cotton Pads for Face Cleansing & Makeup Removal  Embossed - 100 Pads",
+      "quantity": 2
+    },
+    {
+      "product": "FACES CANADA Comfy Matte Pro Liquid Lipstick - Frisky Brown 13  5.5 ml | 10HR Longstay | Intense Color | Macadamia Oil & Olive Butter Infused | Lightweight Super Smooth | No Dryness | No Alcohol",
+      "quantity": 2
+    }
+  ],
+  "top_10_brands": [
+    {
+      "brand": "Faces Canada",
+      "quantity": 33
+    },
+    {
+      "brand": "Good Vibes",
+      "quantity": 29
+    },
+    {
+      "brand": "Purplle",
+      "quantity": 10
+    },
+    {
+      "brand": "NY Bae",
+      "quantity": 10
+    },
+    {
+      "brand": "DERMDOC",
+      "quantity": 6
+    },
+    {
+      "brand": "Carmesi",
+      "quantity": 3
+    },
+    {
+      "brand": "Alps Goodness",
+      "quantity": 3
+    },
+    {
+      "brand": "Maybelline",
+      "quantity": 3
+    },
+    {
+      "brand": "GUBB",
+      "quantity": 3
+    },
+    {
+      "brand": "Lakme",
+      "quantity": 2
+    }
+  ],
+  "revenue_by_product": [
+    {
+      "product": "Round Lab Pine Calming Cica Toner (250 ml) | Korean Skin Care",
+      "revenue": 1448.18
+    },
+    {
+      "product": "COSRX Advanced Snail 96 Mucin Power Essence - Face Serum(100 ml)",
+      "revenue": 1305.0
+    },
+    {
+      "product": "Beauty of Joseon Revive Eye Serum: Ginseng + Retinal 30 ml",
+      "revenue": 1278.0
+    },
+    {
+      "product": "FACES CANADA Ultime Pro Hd Runway Ready Foundation - Soft Sand 05  30 ml | Dewy Finish | Glass Skin Effect | Luxurious Formula | Lightweight & Breathable | Silky Smooth Texture | No Dryness or Oiliness | Vitamin E & Hyaluronic Acid",
+      "revenue": 1221.65
+    },
+    {
+      "product": "FACES CANADA 3 in 1 Flawless Matte Concealer - Caramel  8 gm | Full Coverage | Long Lasting | Hydrating Concealer for Dark Circles  Dark Spots & Blemishes | Brightens Under Eyes | Lightweight & Blendable",
+      "revenue": 1131.51
+    },
+    {
+      "product": "FACES CANADA Ultime Pro Hd Runway Ready Foundation - Warm Sand 06  30 ml | Dewy Finish | Glass Skin Effect | Luxurious Formula | Lightweight & Breathable | Silky Smooth Texture | No Dryness or Oiliness | Vitamin E & Hyaluronic Acid",
+      "revenue": 1085.03
+    },
+    {
+      "product": "FACES CANADA Comfy Matte Pro Liquid Lipstick - Frisky Brown 13  5.5 ml | 10HR Longstay | Intense Color | Macadamia Oil & Olive Butter Infused | Lightweight Super Smooth | No Dryness | No Alcohol",
+      "revenue": 933.34
+    },
+    {
+      "product": "Maybelline New York Instant Age Rewind Eraser Concealer - Conceal  Contour  142 Butterscotch 6 gm",
+      "revenue": 799.0
+    },
+    {
+      "product": "COSRX Salicylic Acid Daily Gentle Cleanser (150 ml)",
+      "revenue": 765.0
+    },
+    {
+      "product": "Maybelline Superstay Vinyl Ink Liquid Lipstick  Lippy | High Shine That Lasts for 16 HRs | Enriched With Vitamin E & Aloe 4.2 ml",
+      "revenue": 721.65
+    }
+  ],
+  "revenue_by_brand": [
+    {
+      "brand": "Faces Canada",
+      "revenue": 15697.21
+    },
+    {
+      "brand": "NY Bae",
+      "revenue": 2342.6
+    },
+    {
+      "brand": "COSRX",
+      "revenue": 2070.0
+    },
+    {
+      "brand": "Maybelline",
+      "revenue": 1834.29
+    },
+    {
+      "brand": "DERMDOC",
+      "revenue": 1620.9
+    },
+    {
+      "brand": "Good Vibes",
+      "revenue": 1485.0
+    },
+    {
+      "brand": "Round Lab",
+      "revenue": 1448.18
+    },
+    {
+      "brand": "Beauty of Joseon",
+      "revenue": 1278.0
+    },
+    {
+      "brand": "Bare Anatomy",
+      "revenue": 1042.5900000000001
+    },
+    {
+      "brand": "Juicy Chemistry",
+      "revenue": 750.0
+    }
+  ]
+}

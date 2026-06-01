@@ -1,0 +1,19 @@
+{"event_id": "f8a64e48-3e28-4266-97e6-ddccbd93513e", "track_id": 1, "camera_id": "CAM 1.mp4", "zone_id": "ZONE_27", "event_type": "ZONE_ENTER", "timestamp_ms": 33}
+{"event_id": "c228fd68-6c00-48fe-9489-bbf6951c4db7", "track_id": 1, "camera_id": "CAM 1.mp4", "zone_id": "ZONE_27", "event_type": "ZONE_EXIT", "timestamp_ms": 1600, "duration_ms": 1567}
+{"event_id": "b7e9204b-a624-429c-a01a-c24ee4268214", "track_id": 1, "camera_id": "CAM 1.mp4", "zone_id": "ZONE_32", "event_type": "ZONE_ENTER", "timestamp_ms": 1633}
+{"event_id": "6de974a4-2064-4d87-8de3-a738f47a1a74", "track_id": 1, "camera_id": "CAM 1.mp4", "zone_id": "ZONE_32", "event_type": "ZONE_EXIT", "timestamp_ms": 2333, "duration_ms": 700}
+{"event_id": "a0f078cc-7f1c-4f9b-bfc7-48b18b49178d", "track_id": 1, "camera_id": "CAM 1.mp4", "zone_id": "ZONE_26", "event_type": "ZONE_ENTER", "timestamp_ms": 2433}
+{"event_id": "4bca3c46-80e2-4979-b064-0fcf0241be69", "track_id": 1, "camera_id": "CAM 1.mp4", "zone_id": "ZONE_26", "event_type": "ZONE_EXIT", "timestamp_ms": 2500, "duration_ms": 67}
+{"event_id": "38826212-90cd-4c3c-a016-e3fb797f24ec", "track_id": 1, "camera_id": "CAM 1.mp4", "zone_id": "ZONE_26", "event_type": "ZONE_ENTER", "timestamp_ms": 2566}
+{"event_id": "516c6423-9ed2-4a52-958f-314f4e09f127", "track_id": 1, "camera_id": "CAM 1.mp4", "zone_id": "ZONE_26", "event_type": "ZONE_EXIT", "timestamp_ms": 2700, "duration_ms": 134}
+{"event_id": "833d6d4c-c2ee-46aa-82d1-70278a1c88bc", "track_id": 4, "camera_id": "CAM 2.mp4", "zone_id": "ZONE_3", "event_type": "ZONE_ENTER", "timestamp_ms": 900}
+{"event_id": "dd3943b5-6a9b-490a-80ca-9fe72149b226", "track_id": 4, "camera_id": "CAM 2.mp4", "zone_id": "ZONE_3", "event_type": "ZONE_EXIT", "timestamp_ms": 933, "duration_ms": 33}
+{"event_id": "447d0fe3-1b7a-482b-86ba-8df84195ec28", "track_id": 2, "camera_id": "CAM 2.mp4", "zone_id": "ZONE_4", "event_type": "ZONE_ENTER", "timestamp_ms": 2133}
+{"event_id": "4606c01a-afe2-4ace-87b2-0d1c6bbc9c4a", "track_id": 2, "camera_id": "CAM 2.mp4", "zone_id": "ZONE_4", "event_type": "ZONE_EXIT", "timestamp_ms": 2200, "duration_ms": 67}
+{"event_id": "b448e8d4-fc15-4b57-967e-dba2243affc4", "track_id": 15, "camera_id": "CAM 2.mp4", "zone_id": "ZONE_3", "event_type": "ZONE_ENTER", "timestamp_ms": 2400}
+{"event_id": "3e310c96-0bf1-4401-bc25-c391a82f0c73", "track_id": 15, "camera_id": "CAM 2.mp4", "zone_id": "ZONE_3", "event_type": "ZONE_EXIT", "timestamp_ms": 2566, "duration_ms": 166}
+{"event_id": "c183b314-3ce9-4f6b-a507-eb2613ca9991", "track_id": 15, "camera_id": "CAM 2.mp4", "zone_id": "ZONE_3", "event_type": "ZONE_ENTER", "timestamp_ms": 2600}
+{"event_id": "a695594e-87d0-4666-b4db-1e3d9e15cf32", "track_id": 15, "camera_id": "CAM 2.mp4", "zone_id": "ZONE_3", "event_type": "ZONE_EXIT", "timestamp_ms": 2633, "duration_ms": 33}
+{"event_id": "7e038a3e-e3a7-4a08-acb3-b240963cdc46", "track_id": 15, "camera_id": "CAM 2.mp4", "zone_id": "ZONE_3", "event_type": "ZONE_ENTER", "timestamp_ms": 2733}
+{"event_id": "d7a888e3-41c7-44ea-860e-c4ba34b3169d", "track_id": 23, "camera_id": "CAM 2.mp4", "zone_id": "ZONE_2", "event_type": "ZONE_ENTER", "timestamp_ms": 3000}
+{"event_id": "65f811c0-c361-4d76-bdfe-c28753691d4d", "track_id": 15, "camera_id": "CAM 2.mp4", "zone_id": "ZONE_3", "event_type": "ZONE_EXIT", "timestamp_ms": 3200, "duration_ms": 467}

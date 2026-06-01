@@ -1,0 +1,1773 @@
+{
+  "VIS_006": {
+    "visitor_id": 6,
+    "camera_id": "CAM 2",
+    "events": [
+      {
+        "time": 66.66666666666667,
+        "type": "ENTRY",
+        "raw": {
+          "event_id": "b34f0ba2-8702-4d31-abf2-29e41150f779",
+          "visitor_id": 6,
+          "camera_id": "CAM 2",
+          "store_id": "store",
+          "event_type": "ENTRY",
+          "timestamp": 66.66666666666667,
+          "confidence": 0.2519668936729431,
+          "metadata": {
+            "frame_index": 2
+          }
+        }
+      },
+      {
+        "time": 100.0,
+        "type": "EXIT",
+        "raw": {
+          "event_id": "cc16c769-d459-4cd1-9b6b-8d9da7e295f0",
+          "visitor_id": 6,
+          "camera_id": "CAM 2",
+          "store_id": "store",
+          "event_type": "EXIT",
+          "timestamp": 100.0,
+          "confidence": 1.0,
+          "metadata": {
+            "last_frame": 3
+          }
+        }
+      },
+      {
+        "time": 400.0,
+        "type": "ENTRY",
+        "raw": {
+          "event_id": "7e6d4e5d-cb1f-444b-ab9f-d7e029781a4c",
+          "visitor_id": 6,
+          "camera_id": "CAM 3",
+          "store_id": "store",
+          "event_type": "ENTRY",
+          "timestamp": 400.0,
+          "confidence": 0.40097302198410034,
+          "metadata": {
+            "frame_index": 12
+          }
+        }
+      },
+      {
+        "time": 700.0,
+        "type": "EXIT",
+        "raw": {
+          "event_id": "6b02bdc6-d686-4260-a75c-90405e09557c",
+          "visitor_id": 6,
+          "camera_id": "CAM 3",
+          "store_id": "store",
+          "event_type": "EXIT",
+          "timestamp": 700.0,
+          "confidence": 1.0,
+          "metadata": {
+            "last_frame": 21
+          }
+        }
+      },
+      {
+        "time": 1666.6666666666667,
+        "type": "ENTRY",
+        "raw": {
+          "event_id": "cb7d7386-15a6-4f45-9cfc-95c9bd795968",
+          "visitor_id": 6,
+          "camera_id": "CAM 1",
+          "store_id": "store",
+          "event_type": "ENTRY",
+          "timestamp": 1666.6666666666667,
+          "confidence": 0.2508072555065155,
+          "metadata": {
+            "frame_index": 50
+          }
+        }
+      },
+      {
+        "time": 1933.3333333333333,
+        "type": "EXIT",
+        "raw": {
+          "event_id": "f15ce251-af38-4dde-bba0-2d0b460f0613",
+          "visitor_id": 6,
+          "camera_id": "CAM 1",
+          "store_id": "store",
+          "event_type": "EXIT",
+          "timestamp": 1933.3333333333333,
+          "confidence": 1.0,
+          "metadata": {
+            "last_frame": 58
+          }
+        }
+      },
+      {
+        "time": 1966.6666666666665,
+        "type": "ENTRY",
+        "raw": {
+          "event_id": "dd858106-7100-43e5-9892-d3c825b8fe30",
+          "visitor_id": 6,
+          "camera_id": "CAM 5",
+          "store_id": "store",
+          "event_type": "ENTRY",
+          "timestamp": 1966.6666666666665,
+          "confidence": 0.3773330748081207,
+          "metadata": {
+            "frame_index": 59
+          }
+        }
+      },
+      {
+        "time": 2300.0,
+        "type": "EXIT",
+        "raw": {
+          "event_id": "f3702f55-49d0-4115-bc05-f2827a2c831b",
+          "visitor_id": 6,
+          "camera_id": "CAM 5",
+          "store_id": "store",
+          "event_type": "EXIT",
+          "timestamp": 2300.0,
+          "confidence": 1.0,
+          "metadata": {
+            "last_frame": 69
+          }
+        }
+      }
+    ]
+  },
+  "VIS_007": {
+    "visitor_id": 7,
+    "camera_id": "CAM 2",
+    "events": [
+      {
+        "time": 233.33333333333334,
+        "type": "ENTRY",
+        "raw": {
+          "event_id": "2ce9fbbf-f2c7-4578-9774-beffd65520ee",
+          "visitor_id": 7,
+          "camera_id": "CAM 2",
+          "store_id": "store",
+          "event_type": "ENTRY",
+          "timestamp": 233.33333333333334,
+          "confidence": 0.29416292905807495,
+          "metadata": {
+            "frame_index": 7
+          }
+        }
+      },
+      {
+        "time": 300.0,
+        "type": "EXIT",
+        "raw": {
+          "event_id": "772e7965-7f0e-4636-86eb-c24d6fff22a7",
+          "visitor_id": 7,
+          "camera_id": "CAM 2",
+          "store_id": "store",
+          "event_type": "EXIT",
+          "timestamp": 300.0,
+          "confidence": 1.0,
+          "metadata": {
+            "last_frame": 9
+          }
+        }
+      },
+      {
+        "time": 566.6666666666666,
+        "type": "ENTRY",
+        "raw": {
+          "event_id": "e508ed6e-9cc6-4fef-a47d-bf9e1dc237b9",
+          "visitor_id": 7,
+          "camera_id": "CAM 3",
+          "store_id": "store",
+          "event_type": "ENTRY",
+          "timestamp": 566.6666666666666,
+          "confidence": 0.44792985916137695,
+          "metadata": {
+            "frame_index": 17
+          }
+        }
+      },
+      {
+        "time": 566.6666666666666,
+        "type": "EXIT",
+        "raw": {
+          "event_id": "146160d7-aa27-44ac-a25e-c31f3b51afea",
+          "visitor_id": 7,
+          "camera_id": "CAM 3",
+          "store_id": "store",
+          "event_type": "EXIT",
+          "timestamp": 566.6666666666666,
+          "confidence": 1.0,
+          "metadata": {
+            "last_frame": 17
+          }
+        }
+      },
+      {
+        "time": 2133.3333333333335,
+        "type": "ENTRY",
+        "raw": {
+          "event_id": "dc2ca81a-2b03-459d-806f-5feaefc96ef9",
+          "visitor_id": 7,
+          "camera_id": "CAM 1",
+          "store_id": "store",
+          "event_type": "ENTRY",
+          "timestamp": 2133.3333333333335,
+          "confidence": 0.27144160866737366,
+          "metadata": {
+            "frame_index": 64
+          }
+        }
+      },
+      {
+        "time": 2133.3333333333335,
+        "type": "EXIT",
+        "raw": {
+          "event_id": "3628f0a6-81c7-4293-85b7-f54b20864693",
+          "visitor_id": 7,
+          "camera_id": "CAM 1",
+          "store_id": "store",
+          "event_type": "EXIT",
+          "timestamp": 2133.3333333333335,
+          "confidence": 1.0,
+          "metadata": {
+            "last_frame": 64
+          }
+        }
+      },
+      {
+        "time": 2400.0,
+        "type": "ENTRY",
+        "raw": {
+          "event_id": "dd0540f8-b3ca-4bfd-a651-f463fab66d92",
+          "visitor_id": 7,
+          "camera_id": "CAM 5",
+          "store_id": "store",
+          "event_type": "ENTRY",
+          "timestamp": 2400.0,
+          "confidence": 0.261308491230011,
+          "metadata": {
+            "frame_index": 72
+          }
+        }
+      }
+    ]
+  },
+  "VIS_008": {
+    "visitor_id": 8,
+    "camera_id": "CAM 2",
+    "events": [
+      {
+        "time": 533.3333333333334,
+        "type": "ENTRY",
+        "raw": {
+          "event_id": "886ef10f-0976-4841-9663-bb3269ceadd6",
+          "visitor_id": 8,
+          "camera_id": "CAM 2",
+          "store_id": "store",
+          "event_type": "ENTRY",
+          "timestamp": 533.3333333333334,
+          "confidence": 0.25496038794517517,
+          "metadata": {
+            "frame_index": 16
+          }
+        }
+      },
+      {
+        "time": 566.6666666666666,
+        "type": "EXIT",
+        "raw": {
+          "event_id": "6bf58ee9-3ffa-4f13-9942-adb19fa3d169",
+          "visitor_id": 8,
+          "camera_id": "CAM 2",
+          "store_id": "store",
+          "event_type": "EXIT",
+          "timestamp": 566.6666666666666,
+          "confidence": 1.0,
+          "metadata": {
+            "last_frame": 17
+          }
+        }
+      },
+      {
+        "time": 1033.3333333333335,
+        "type": "ENTRY",
+        "raw": {
+          "event_id": "86dafdc7-f461-41b3-9078-23eb0909d007",
+          "visitor_id": 8,
+          "camera_id": "CAM 3",
+          "store_id": "store",
+          "event_type": "ENTRY",
+          "timestamp": 1033.3333333333335,
+          "confidence": 0.2705589830875397,
+          "metadata": {
+            "frame_index": 31
+          }
+        }
+      },
+      {
+        "time": 1066.6666666666667,
+        "type": "EXIT",
+        "raw": {
+          "event_id": "8f3747fc-d143-4756-8249-43c492121262",
+          "visitor_id": 8,
+          "camera_id": "CAM 3",
+          "store_id": "store",
+          "event_type": "EXIT",
+          "timestamp": 1066.6666666666667,
+          "confidence": 1.0,
+          "metadata": {
+            "last_frame": 32
+          }
+        }
+      },
+      {
+        "time": 2566.0,
+        "type": "ZONE_ENTER",
+        "zone_id": "ZONE_26",
+        "raw": {
+          "event_id": "38826212-90cd-4c3c-a016-e3fb797f24ec",
+          "track_id": 1,
+          "camera_id": "CAM 1.mp4",
+          "zone_id": "ZONE_26",
+          "event_type": "ZONE_ENTER",
+          "timestamp_ms": 2566,
+          "visitor_id": 8
+        }
+      },
+      {
+        "time": 2566.666666666667,
+        "type": "ENTRY",
+        "raw": {
+          "event_id": "c546f5a1-dbec-48a8-ac69-ac81b44c883e",
+          "visitor_id": 8,
+          "camera_id": "CAM 1",
+          "store_id": "store",
+          "event_type": "ENTRY",
+          "timestamp": 2566.666666666667,
+          "confidence": 0.27458655834198,
+          "metadata": {
+            "frame_index": 77
+          }
+        }
+      },
+      {
+        "time": 2700.0,
+        "type": "ZONE_EXIT",
+        "zone_id": "ZONE_26",
+        "raw": {
+          "event_id": "516c6423-9ed2-4a52-958f-314f4e09f127",
+          "track_id": 1,
+          "camera_id": "CAM 1.mp4",
+          "zone_id": "ZONE_26",
+          "event_type": "ZONE_EXIT",
+          "timestamp_ms": 2700,
+          "duration_ms": 134,
+          "visitor_id": 8
+        }
+      }
+    ]
+  },
+  "VIS_009": {
+    "visitor_id": 9,
+    "camera_id": "CAM 2",
+    "events": [
+      {
+        "time": 766.6666666666667,
+        "type": "ENTRY",
+        "raw": {
+          "event_id": "2ddd5230-d099-4029-83c4-7d0e82bcaddf",
+          "visitor_id": 9,
+          "camera_id": "CAM 2",
+          "store_id": "store",
+          "event_type": "ENTRY",
+          "timestamp": 766.6666666666667,
+          "confidence": 0.2624768912792206,
+          "metadata": {
+            "frame_index": 23
+          }
+        }
+      },
+      {
+        "time": 900.0,
+        "type": "ZONE_ENTER",
+        "zone_id": "ZONE_3",
+        "raw": {
+          "event_id": "833d6d4c-c2ee-46aa-82d1-70278a1c88bc",
+          "track_id": 4,
+          "camera_id": "CAM 2.mp4",
+          "zone_id": "ZONE_3",
+          "event_type": "ZONE_ENTER",
+          "timestamp_ms": 900,
+          "visitor_id": 9
+        }
+      },
+      {
+        "time": 933.0,
+        "type": "ZONE_EXIT",
+        "zone_id": "ZONE_3",
+        "raw": {
+          "event_id": "dd3943b5-6a9b-490a-80ca-9fe72149b226",
+          "track_id": 4,
+          "camera_id": "CAM 2.mp4",
+          "zone_id": "ZONE_3",
+          "event_type": "ZONE_EXIT",
+          "timestamp_ms": 933,
+          "duration_ms": 33,
+          "visitor_id": 9
+        }
+      },
+      {
+        "time": 1100.0,
+        "type": "ENTRY",
+        "raw": {
+          "event_id": "61387e4d-cf74-410d-9cd9-1dfdbf53e8c2",
+          "visitor_id": 9,
+          "camera_id": "CAM 3",
+          "store_id": "store",
+          "event_type": "ENTRY",
+          "timestamp": 1100.0,
+          "confidence": 0.2597821056842804,
+          "metadata": {
+            "frame_index": 33
+          }
+        }
+      },
+      {
+        "time": 1133.3333333333333,
+        "type": "EXIT",
+        "raw": {
+          "event_id": "7db0151b-1c86-4a5f-9d43-e76c763fb2b3",
+          "visitor_id": 9,
+          "camera_id": "CAM 3",
+          "store_id": "store",
+          "event_type": "EXIT",
+          "timestamp": 1133.3333333333333,
+          "confidence": 1.0,
+          "metadata": {
+            "last_frame": 34
+          }
+        }
+      },
+      {
+        "time": 1333.3333333333333,
+        "type": "EXIT",
+        "raw": {
+          "event_id": "fe4491a3-5906-4402-a520-3d25f7b65c4e",
+          "visitor_id": 9,
+          "camera_id": "CAM 2",
+          "store_id": "store",
+          "event_type": "EXIT",
+          "timestamp": 1333.3333333333333,
+          "confidence": 1.0,
+          "metadata": {
+            "last_frame": 40
+          }
+        }
+      },
+      {
+        "time": 2733.3333333333335,
+        "type": "ENTRY",
+        "raw": {
+          "event_id": "6d2dd466-7c54-4021-a167-553521eedc3d",
+          "visitor_id": 9,
+          "camera_id": "CAM 1",
+          "store_id": "store",
+          "event_type": "ENTRY",
+          "timestamp": 2733.3333333333335,
+          "confidence": 0.43437233567237854,
+          "metadata": {
+            "frame_index": 82
+          }
+        }
+      }
+    ]
+  },
+  "VIS_010": {
+    "visitor_id": 10,
+    "camera_id": "CAM 2",
+    "events": [
+      {
+        "time": 1433.3333333333333,
+        "type": "ENTRY",
+        "raw": {
+          "event_id": "dc83162c-0f10-4c9d-8d42-53a8340862a0",
+          "visitor_id": 10,
+          "camera_id": "CAM 3",
+          "store_id": "store",
+          "event_type": "ENTRY",
+          "timestamp": 1433.3333333333333,
+          "confidence": 0.26183241605758667,
+          "metadata": {
+            "frame_index": 43
+          }
+        }
+      },
+      {
+        "time": 1500.0,
+        "type": "ENTRY",
+        "raw": {
+          "event_id": "5a0da11a-3814-421f-ad51-0122f00d5b47",
+          "visitor_id": 10,
+          "camera_id": "CAM 2",
+          "store_id": "store",
+          "event_type": "ENTRY",
+          "timestamp": 1500.0,
+          "confidence": 0.3255985975265503,
+          "metadata": {
+            "frame_index": 45
+          }
+        }
+      },
+      {
+        "time": 1533.3333333333335,
+        "type": "EXIT",
+        "raw": {
+          "event_id": "b5017fd5-8c0a-44e7-b7d1-4408fb06a6af",
+          "visitor_id": 10,
+          "camera_id": "CAM 2",
+          "store_id": "store",
+          "event_type": "EXIT",
+          "timestamp": 1533.3333333333335,
+          "confidence": 1.0,
+          "metadata": {
+            "last_frame": 46
+          }
+        }
+      },
+      {
+        "time": 1533.3333333333335,
+        "type": "EXIT",
+        "raw": {
+          "event_id": "d10bbdfd-0a51-4359-b251-59eee2f70cc8",
+          "visitor_id": 10,
+          "camera_id": "CAM 3",
+          "store_id": "store",
+          "event_type": "EXIT",
+          "timestamp": 1533.3333333333335,
+          "confidence": 1.0,
+          "metadata": {
+            "last_frame": 46
+          }
+        }
+      },
+      {
+        "time": 2733.3333333333335,
+        "type": "ENTRY",
+        "raw": {
+          "event_id": "ba001484-12d3-4119-a888-94cf7121b658",
+          "visitor_id": 10,
+          "camera_id": "CAM 1",
+          "store_id": "store",
+          "event_type": "ENTRY",
+          "timestamp": 2733.3333333333335,
+          "confidence": 0.2766907215118408,
+          "metadata": {
+            "frame_index": 82
+          }
+        }
+      }
+    ]
+  },
+  "VIS_011": {
+    "visitor_id": 11,
+    "camera_id": "CAM 2",
+    "events": [
+      {
+        "time": 1566.6666666666667,
+        "type": "ENTRY",
+        "raw": {
+          "event_id": "af795af9-a513-4bf8-9fbf-21dac3904c9e",
+          "visitor_id": 11,
+          "camera_id": "CAM 3",
+          "store_id": "store",
+          "event_type": "ENTRY",
+          "timestamp": 1566.6666666666667,
+          "confidence": 0.3580763638019562,
+          "metadata": {
+            "frame_index": 47
+          }
+        }
+      },
+      {
+        "time": 1600.0,
+        "type": "ENTRY",
+        "raw": {
+          "event_id": "08c397ef-2c2a-4462-9cc6-07fc9d83e468",
+          "visitor_id": 11,
+          "camera_id": "CAM 2",
+          "store_id": "store",
+          "event_type": "ENTRY",
+          "timestamp": 1600.0,
+          "confidence": 0.2884276211261749,
+          "metadata": {
+            "frame_index": 48
+          }
+        }
+      },
+      {
+        "time": 1733.3333333333335,
+        "type": "EXIT",
+        "raw": {
+          "event_id": "7f24b21b-c355-48d7-9db2-a20fb82bd38b",
+          "visitor_id": 11,
+          "camera_id": "CAM 2",
+          "store_id": "store",
+          "event_type": "EXIT",
+          "timestamp": 1733.3333333333335,
+          "confidence": 1.0,
+          "metadata": {
+            "last_frame": 52
+          }
+        }
+      },
+      {
+        "time": 1866.6666666666667,
+        "type": "EXIT",
+        "raw": {
+          "event_id": "acf194e6-3b2f-48f1-aa24-ffcd91763937",
+          "visitor_id": 11,
+          "camera_id": "CAM 3",
+          "store_id": "store",
+          "event_type": "EXIT",
+          "timestamp": 1866.6666666666667,
+          "confidence": 1.0,
+          "metadata": {
+            "last_frame": 56
+          }
+        }
+      },
+      {
+        "time": 2966.666666666667,
+        "type": "ENTRY",
+        "raw": {
+          "event_id": "9dce6463-b28f-4b4f-8b38-ff36167421f3",
+          "visitor_id": 11,
+          "camera_id": "CAM 1",
+          "store_id": "store",
+          "event_type": "ENTRY",
+          "timestamp": 2966.666666666667,
+          "confidence": 0.27185800671577454,
+          "metadata": {
+            "frame_index": 89
+          }
+        }
+      }
+    ]
+  },
+  "VIS_012": {
+    "visitor_id": 12,
+    "camera_id": "CAM 2",
+    "events": [
+      {
+        "time": 1733.3333333333335,
+        "type": "ENTRY",
+        "raw": {
+          "event_id": "5e1ab67b-1e50-46b1-af92-a8b3081d7d74",
+          "visitor_id": 12,
+          "camera_id": "CAM 3",
+          "store_id": "store",
+          "event_type": "ENTRY",
+          "timestamp": 1733.3333333333335,
+          "confidence": 0.2845408618450165,
+          "metadata": {
+            "frame_index": 52
+          }
+        }
+      },
+      {
+        "time": 1733.3333333333335,
+        "type": "EXIT",
+        "raw": {
+          "event_id": "145dcead-b1a5-4663-bbff-dc980bf5bb85",
+          "visitor_id": 12,
+          "camera_id": "CAM 3",
+          "store_id": "store",
+          "event_type": "EXIT",
+          "timestamp": 1733.3333333333335,
+          "confidence": 1.0,
+          "metadata": {
+            "last_frame": 52
+          }
+        }
+      },
+      {
+        "time": 1833.3333333333333,
+        "type": "ENTRY",
+        "raw": {
+          "event_id": "0528b15e-cc42-49f2-91a4-fac83c9c6e16",
+          "visitor_id": 12,
+          "camera_id": "CAM 2",
+          "store_id": "store",
+          "event_type": "ENTRY",
+          "timestamp": 1833.3333333333333,
+          "confidence": 0.2500894069671631,
+          "metadata": {
+            "frame_index": 55
+          }
+        }
+      },
+      {
+        "time": 1833.3333333333333,
+        "type": "EXIT",
+        "raw": {
+          "event_id": "89e5a5a6-f8c0-4ee1-9e3b-7ad8b458e3d1",
+          "visitor_id": 12,
+          "camera_id": "CAM 2",
+          "store_id": "store",
+          "event_type": "EXIT",
+          "timestamp": 1833.3333333333333,
+          "confidence": 1.0,
+          "metadata": {
+            "last_frame": 55
+          }
+        }
+      }
+    ]
+  },
+  "VIS_013": {
+    "visitor_id": 13,
+    "camera_id": "CAM 2",
+    "events": [
+      {
+        "time": 1833.3333333333333,
+        "type": "ENTRY",
+        "raw": {
+          "event_id": "f7a63184-ae0c-4e5c-917f-7d7cac0f165e",
+          "visitor_id": 13,
+          "camera_id": "CAM 3",
+          "store_id": "store",
+          "event_type": "ENTRY",
+          "timestamp": 1833.3333333333333,
+          "confidence": 0.42478153109550476,
+          "metadata": {
+            "frame_index": 55
+          }
+        }
+      },
+      {
+        "time": 1933.3333333333333,
+        "type": "ENTRY",
+        "raw": {
+          "event_id": "aaabf62d-9c86-46ad-9d01-3ca178c7399f",
+          "visitor_id": 13,
+          "camera_id": "CAM 2",
+          "store_id": "store",
+          "event_type": "ENTRY",
+          "timestamp": 1933.3333333333333,
+          "confidence": 0.253728449344635,
+          "metadata": {
+            "frame_index": 58
+          }
+        }
+      },
+      {
+        "time": 1933.3333333333333,
+        "type": "EXIT",
+        "raw": {
+          "event_id": "5ec1048f-f993-46fb-a218-72b72f741a85",
+          "visitor_id": 13,
+          "camera_id": "CAM 2",
+          "store_id": "store",
+          "event_type": "EXIT",
+          "timestamp": 1933.3333333333333,
+          "confidence": 1.0,
+          "metadata": {
+            "last_frame": 58
+          }
+        }
+      }
+    ]
+  },
+  "VIS_014": {
+    "visitor_id": 14,
+    "camera_id": "CAM 2",
+    "events": [
+      {
+        "time": 1833.3333333333333,
+        "type": "ENTRY",
+        "raw": {
+          "event_id": "0a084415-4abf-4779-b739-74971d05d7ea",
+          "visitor_id": 14,
+          "camera_id": "CAM 3",
+          "store_id": "store",
+          "event_type": "ENTRY",
+          "timestamp": 1833.3333333333333,
+          "confidence": 0.27401506900787354,
+          "metadata": {
+            "frame_index": 55
+          }
+        }
+      },
+      {
+        "time": 2033.3333333333333,
+        "type": "ENTRY",
+        "raw": {
+          "event_id": "953ccfc4-5214-4c2e-b043-dfc37f7e545b",
+          "visitor_id": 14,
+          "camera_id": "CAM 2",
+          "store_id": "store",
+          "event_type": "ENTRY",
+          "timestamp": 2033.3333333333333,
+          "confidence": 0.26266559958457947,
+          "metadata": {
+            "frame_index": 61
+          }
+        }
+      },
+      {
+        "time": 2066.666666666667,
+        "type": "EXIT",
+        "raw": {
+          "event_id": "b35c59d7-5782-48a4-9288-269331b2fcdb",
+          "visitor_id": 14,
+          "camera_id": "CAM 2",
+          "store_id": "store",
+          "event_type": "EXIT",
+          "timestamp": 2066.666666666667,
+          "confidence": 1.0,
+          "metadata": {
+            "last_frame": 62
+          }
+        }
+      },
+      {
+        "time": 2066.666666666667,
+        "type": "EXIT",
+        "raw": {
+          "event_id": "59c3ea78-d510-4927-95f6-46cfcfde7281",
+          "visitor_id": 14,
+          "camera_id": "CAM 3",
+          "store_id": "store",
+          "event_type": "EXIT",
+          "timestamp": 2066.666666666667,
+          "confidence": 1.0,
+          "metadata": {
+            "last_frame": 62
+          }
+        }
+      }
+    ]
+  },
+  "VIS_015": {
+    "visitor_id": 15,
+    "camera_id": "CAM 2",
+    "events": [
+      {
+        "time": 1966.6666666666665,
+        "type": "ENTRY",
+        "raw": {
+          "event_id": "e794bc09-d517-4ee2-b15a-2978d7d792f4",
+          "visitor_id": 15,
+          "camera_id": "CAM 3",
+          "store_id": "store",
+          "event_type": "ENTRY",
+          "timestamp": 1966.6666666666665,
+          "confidence": 0.25110936164855957,
+          "metadata": {
+            "frame_index": 59
+          }
+        }
+      },
+      {
+        "time": 1966.6666666666665,
+        "type": "EXIT",
+        "raw": {
+          "event_id": "b60369f3-a84f-4a1d-97fa-f60d4b30b56d",
+          "visitor_id": 15,
+          "camera_id": "CAM 3",
+          "store_id": "store",
+          "event_type": "EXIT",
+          "timestamp": 1966.6666666666665,
+          "confidence": 1.0,
+          "metadata": {
+            "last_frame": 59
+          }
+        }
+      },
+      {
+        "time": 2133.0,
+        "type": "ZONE_ENTER",
+        "zone_id": "ZONE_4",
+        "raw": {
+          "event_id": "447d0fe3-1b7a-482b-86ba-8df84195ec28",
+          "track_id": 2,
+          "camera_id": "CAM 2.mp4",
+          "zone_id": "ZONE_4",
+          "event_type": "ZONE_ENTER",
+          "timestamp_ms": 2133,
+          "visitor_id": 15
+        }
+      },
+      {
+        "time": 2166.6666666666665,
+        "type": "ENTRY",
+        "raw": {
+          "event_id": "e776979d-1333-4092-bb90-f8201471dfc9",
+          "visitor_id": 15,
+          "camera_id": "CAM 2",
+          "store_id": "store",
+          "event_type": "ENTRY",
+          "timestamp": 2166.6666666666665,
+          "confidence": 0.32002535462379456,
+          "metadata": {
+            "frame_index": 65
+          }
+        }
+      },
+      {
+        "time": 2200.0,
+        "type": "ZONE_EXIT",
+        "zone_id": "ZONE_4",
+        "raw": {
+          "event_id": "4606c01a-afe2-4ace-87b2-0d1c6bbc9c4a",
+          "track_id": 2,
+          "camera_id": "CAM 2.mp4",
+          "zone_id": "ZONE_4",
+          "event_type": "ZONE_EXIT",
+          "timestamp_ms": 2200,
+          "duration_ms": 67,
+          "visitor_id": 15
+        }
+      },
+      {
+        "time": 2400.0,
+        "type": "ZONE_ENTER",
+        "zone_id": "ZONE_3",
+        "raw": {
+          "event_id": "b448e8d4-fc15-4b57-967e-dba2243affc4",
+          "track_id": 15,
+          "camera_id": "CAM 2.mp4",
+          "zone_id": "ZONE_3",
+          "event_type": "ZONE_ENTER",
+          "timestamp_ms": 2400,
+          "visitor_id": 15
+        }
+      },
+      {
+        "time": 2566.0,
+        "type": "ZONE_EXIT",
+        "zone_id": "ZONE_3",
+        "raw": {
+          "event_id": "3e310c96-0bf1-4401-bc25-c391a82f0c73",
+          "track_id": 15,
+          "camera_id": "CAM 2.mp4",
+          "zone_id": "ZONE_3",
+          "event_type": "ZONE_EXIT",
+          "timestamp_ms": 2566,
+          "duration_ms": 166,
+          "visitor_id": 15
+        }
+      },
+      {
+        "time": 2600.0,
+        "type": "ZONE_ENTER",
+        "zone_id": "ZONE_3",
+        "raw": {
+          "event_id": "c183b314-3ce9-4f6b-a507-eb2613ca9991",
+          "track_id": 15,
+          "camera_id": "CAM 2.mp4",
+          "zone_id": "ZONE_3",
+          "event_type": "ZONE_ENTER",
+          "timestamp_ms": 2600,
+          "visitor_id": 15
+        }
+      },
+      {
+        "time": 2633.0,
+        "type": "ZONE_EXIT",
+        "zone_id": "ZONE_3",
+        "raw": {
+          "event_id": "a695594e-87d0-4666-b4db-1e3d9e15cf32",
+          "track_id": 15,
+          "camera_id": "CAM 2.mp4",
+          "zone_id": "ZONE_3",
+          "event_type": "ZONE_EXIT",
+          "timestamp_ms": 2633,
+          "duration_ms": 33,
+          "visitor_id": 15
+        }
+      },
+      {
+        "time": 2733.0,
+        "type": "ZONE_ENTER",
+        "zone_id": "ZONE_3",
+        "raw": {
+          "event_id": "7e038a3e-e3a7-4a08-acb3-b240963cdc46",
+          "track_id": 15,
+          "camera_id": "CAM 2.mp4",
+          "zone_id": "ZONE_3",
+          "event_type": "ZONE_ENTER",
+          "timestamp_ms": 2733,
+          "visitor_id": 15
+        }
+      },
+      {
+        "time": 3000.0,
+        "type": "ZONE_ENTER",
+        "zone_id": "ZONE_2",
+        "raw": {
+          "event_id": "d7a888e3-41c7-44ea-860e-c4ba34b3169d",
+          "track_id": 23,
+          "camera_id": "CAM 2.mp4",
+          "zone_id": "ZONE_2",
+          "event_type": "ZONE_ENTER",
+          "timestamp_ms": 3000,
+          "visitor_id": 15
+        }
+      },
+      {
+        "time": 3200.0,
+        "type": "ZONE_EXIT",
+        "zone_id": "ZONE_3",
+        "raw": {
+          "event_id": "65f811c0-c361-4d76-bdfe-c28753691d4d",
+          "track_id": 15,
+          "camera_id": "CAM 2.mp4",
+          "zone_id": "ZONE_3",
+          "event_type": "ZONE_EXIT",
+          "timestamp_ms": 3200,
+          "duration_ms": 467,
+          "visitor_id": 15
+        }
+      }
+    ]
+  },
+  "VIS_016": {
+    "visitor_id": 16,
+    "camera_id": "CAM 2",
+    "events": [
+      {
+        "time": 2000.0,
+        "type": "ENTRY",
+        "raw": {
+          "event_id": "e6f79878-425a-4165-a9a8-4357193bed3d",
+          "visitor_id": 16,
+          "camera_id": "CAM 3",
+          "store_id": "store",
+          "event_type": "ENTRY",
+          "timestamp": 2000.0,
+          "confidence": 0.2847270667552948,
+          "metadata": {
+            "frame_index": 60
+          }
+        }
+      },
+      {
+        "time": 2000.0,
+        "type": "EXIT",
+        "raw": {
+          "event_id": "ad8bd652-d208-4504-9d99-1eeef3c95e61",
+          "visitor_id": 16,
+          "camera_id": "CAM 3",
+          "store_id": "store",
+          "event_type": "EXIT",
+          "timestamp": 2000.0,
+          "confidence": 1.0,
+          "metadata": {
+            "last_frame": 60
+          }
+        }
+      },
+      {
+        "time": 2533.333333333333,
+        "type": "ENTRY",
+        "raw": {
+          "event_id": "87d74095-4dd7-4eba-9c16-8730380cc7a2",
+          "visitor_id": 16,
+          "camera_id": "CAM 2",
+          "store_id": "store",
+          "event_type": "ENTRY",
+          "timestamp": 2533.333333333333,
+          "confidence": 0.3598463833332062,
+          "metadata": {
+            "frame_index": 76
+          }
+        }
+      }
+    ]
+  },
+  "VIS_017": {
+    "visitor_id": 17,
+    "camera_id": "CAM 2",
+    "events": [
+      {
+        "time": 2133.3333333333335,
+        "type": "ENTRY",
+        "raw": {
+          "event_id": "2c68ac36-b04d-42bc-adb2-39541874ceb2",
+          "visitor_id": 17,
+          "camera_id": "CAM 3",
+          "store_id": "store",
+          "event_type": "ENTRY",
+          "timestamp": 2133.3333333333335,
+          "confidence": 0.2761012315750122,
+          "metadata": {
+            "frame_index": 64
+          }
+        }
+      },
+      {
+        "time": 2266.6666666666665,
+        "type": "EXIT",
+        "raw": {
+          "event_id": "9751005f-9474-4ac4-a5aa-9b519dba37fd",
+          "visitor_id": 17,
+          "camera_id": "CAM 3",
+          "store_id": "store",
+          "event_type": "EXIT",
+          "timestamp": 2266.6666666666665,
+          "confidence": 1.0,
+          "metadata": {
+            "last_frame": 68
+          }
+        }
+      },
+      {
+        "time": 2733.3333333333335,
+        "type": "ENTRY",
+        "raw": {
+          "event_id": "ad35b5f7-16f2-4c89-89a0-4ce0bc6e1d5a",
+          "visitor_id": 17,
+          "camera_id": "CAM 2",
+          "store_id": "store",
+          "event_type": "ENTRY",
+          "timestamp": 2733.3333333333335,
+          "confidence": 0.3042324483394623,
+          "metadata": {
+            "frame_index": 82
+          }
+        }
+      }
+    ]
+  },
+  "VIS_018": {
+    "visitor_id": 18,
+    "camera_id": "CAM 2",
+    "events": [
+      {
+        "time": 2233.3333333333335,
+        "type": "ENTRY",
+        "raw": {
+          "event_id": "d45b8de5-140e-4620-9aaa-5a15ff3e3508",
+          "visitor_id": 18,
+          "camera_id": "CAM 3",
+          "store_id": "store",
+          "event_type": "ENTRY",
+          "timestamp": 2233.3333333333335,
+          "confidence": 0.3269563913345337,
+          "metadata": {
+            "frame_index": 67
+          }
+        }
+      },
+      {
+        "time": 2800.0,
+        "type": "ENTRY",
+        "raw": {
+          "event_id": "cd2e6590-9274-4bf6-8182-1278e8e8565b",
+          "visitor_id": 18,
+          "camera_id": "CAM 2",
+          "store_id": "store",
+          "event_type": "ENTRY",
+          "timestamp": 2800.0,
+          "confidence": 0.37122005224227905,
+          "metadata": {
+            "frame_index": 84
+          }
+        }
+      }
+    ]
+  },
+  "VIS_020": {
+    "visitor_id": 20,
+    "camera_id": "CAM 2",
+    "events": [
+      {
+        "time": 2733.3333333333335,
+        "type": "ENTRY",
+        "raw": {
+          "event_id": "9a020e0a-5411-413d-9596-1a3eca656a98",
+          "visitor_id": 20,
+          "camera_id": "CAM 3",
+          "store_id": "store",
+          "event_type": "ENTRY",
+          "timestamp": 2733.3333333333335,
+          "confidence": 0.3332862854003906,
+          "metadata": {
+            "frame_index": 82
+          }
+        }
+      },
+      {
+        "time": 2833.3333333333335,
+        "type": "ENTRY",
+        "raw": {
+          "event_id": "5ff8210a-1329-4f9d-be3d-12ed40ff3960",
+          "visitor_id": 20,
+          "camera_id": "CAM 2",
+          "store_id": "store",
+          "event_type": "ENTRY",
+          "timestamp": 2833.3333333333335,
+          "confidence": 0.26542943716049194,
+          "metadata": {
+            "frame_index": 85
+          }
+        }
+      }
+    ]
+  },
+  "VIS_019": {
+    "visitor_id": 19,
+    "camera_id": "CAM 2",
+    "events": [
+      {
+        "time": 2600.0,
+        "type": "ENTRY",
+        "raw": {
+          "event_id": "6f7c6994-b2b2-4577-a29a-a40cbba01998",
+          "visitor_id": 19,
+          "camera_id": "CAM 3",
+          "store_id": "store",
+          "event_type": "ENTRY",
+          "timestamp": 2600.0,
+          "confidence": 0.4859909415245056,
+          "metadata": {
+            "frame_index": 78
+          }
+        }
+      },
+      {
+        "time": 2833.3333333333335,
+        "type": "ENTRY",
+        "raw": {
+          "event_id": "6775b06b-ed0f-4ff2-bd68-fb3444e3002b",
+          "visitor_id": 19,
+          "camera_id": "CAM 2",
+          "store_id": "store",
+          "event_type": "ENTRY",
+          "timestamp": 2833.3333333333335,
+          "confidence": 0.295844167470932,
+          "metadata": {
+            "frame_index": 85
+          }
+        }
+      }
+    ]
+  },
+  "VIS_021": {
+    "visitor_id": 21,
+    "camera_id": "CAM 2",
+    "events": [
+      {
+        "time": 2900.0,
+        "type": "ENTRY",
+        "raw": {
+          "event_id": "7bef88c3-8f97-465f-9877-a059db4f8063",
+          "visitor_id": 21,
+          "camera_id": "CAM 2",
+          "store_id": "store",
+          "event_type": "ENTRY",
+          "timestamp": 2900.0,
+          "confidence": 0.2652616798877716,
+          "metadata": {
+            "frame_index": 87
+          }
+        }
+      },
+      {
+        "time": 3300.0,
+        "type": "ENTRY",
+        "raw": {
+          "event_id": "3df76fa1-2663-4d92-b677-feb99d6fa53a",
+          "visitor_id": 21,
+          "camera_id": "CAM 3",
+          "store_id": "store",
+          "event_type": "ENTRY",
+          "timestamp": 3300.0,
+          "confidence": 0.3440615236759186,
+          "metadata": {
+            "frame_index": 99
+          }
+        }
+      }
+    ]
+  },
+  "VIS_022": {
+    "visitor_id": 22,
+    "camera_id": "CAM 2",
+    "events": [
+      {
+        "time": 2966.666666666667,
+        "type": "ENTRY",
+        "raw": {
+          "event_id": "2ed87d09-e8a5-4047-9542-51e9e020d07b",
+          "visitor_id": 22,
+          "camera_id": "CAM 2",
+          "store_id": "store",
+          "event_type": "ENTRY",
+          "timestamp": 2966.666666666667,
+          "confidence": 0.2861674427986145,
+          "metadata": {
+            "frame_index": 89
+          }
+        }
+      }
+    ]
+  },
+  "VIS_023": {
+    "visitor_id": 23,
+    "camera_id": "CAM 2",
+    "events": [
+      {
+        "time": 3000.0,
+        "type": "ENTRY",
+        "raw": {
+          "event_id": "5948ada7-fb56-4ff4-b6eb-4c99a1ece19f",
+          "visitor_id": 23,
+          "camera_id": "CAM 2",
+          "store_id": "store",
+          "event_type": "ENTRY",
+          "timestamp": 3000.0,
+          "confidence": 0.2523171603679657,
+          "metadata": {
+            "frame_index": 90
+          }
+        }
+      }
+    ]
+  },
+  "VIS_024": {
+    "visitor_id": 24,
+    "camera_id": "CAM 2",
+    "events": [
+      {
+        "time": 3200.0,
+        "type": "ENTRY",
+        "raw": {
+          "event_id": "5990a8b0-14f8-40d4-bc86-710daf44ce1f",
+          "visitor_id": 24,
+          "camera_id": "CAM 2",
+          "store_id": "store",
+          "event_type": "ENTRY",
+          "timestamp": 3200.0,
+          "confidence": 0.28790125250816345,
+          "metadata": {
+            "frame_index": 96
+          }
+        }
+      }
+    ]
+  },
+  "VIS_025": {
+    "visitor_id": 25,
+    "camera_id": "CAM 2",
+    "events": [
+      {
+        "time": 3300.0,
+        "type": "ENTRY",
+        "raw": {
+          "event_id": "809095df-4d0c-416e-9121-a766e1e31783",
+          "visitor_id": 25,
+          "camera_id": "CAM 2",
+          "store_id": "store",
+          "event_type": "ENTRY",
+          "timestamp": 3300.0,
+          "confidence": 0.2678793966770172,
+          "metadata": {
+            "frame_index": 99
+          }
+        }
+      }
+    ]
+  },
+  "VIS_027": {
+    "visitor_id": 27,
+    "camera_id": "CAM 2",
+    "events": [
+      {
+        "time": 3333.3333333333335,
+        "type": "ENTRY",
+        "raw": {
+          "event_id": "8a4fee9e-83d5-429b-a848-cdbff09c3342",
+          "visitor_id": 27,
+          "camera_id": "CAM 2",
+          "store_id": "store",
+          "event_type": "ENTRY",
+          "timestamp": 3333.3333333333335,
+          "confidence": 0.30984625220298767,
+          "metadata": {
+            "frame_index": 100
+          }
+        }
+      }
+    ]
+  },
+  "VIS_026": {
+    "visitor_id": 26,
+    "camera_id": "CAM 2",
+    "events": [
+      {
+        "time": 3333.3333333333335,
+        "type": "ENTRY",
+        "raw": {
+          "event_id": "fbeb950f-fd0e-444f-99aa-7ae8c7756c77",
+          "visitor_id": 26,
+          "camera_id": "CAM 2",
+          "store_id": "store",
+          "event_type": "ENTRY",
+          "timestamp": 3333.3333333333335,
+          "confidence": 0.4226686358451843,
+          "metadata": {
+            "frame_index": 100
+          }
+        }
+      }
+    ]
+  },
+  "VIS_003": {
+    "visitor_id": 3,
+    "camera_id": "CAM 3",
+    "events": [
+      {
+        "time": 133.33333333333334,
+        "type": "ENTRY",
+        "raw": {
+          "event_id": "9d9164cc-ffe0-4da0-a094-61e20c0e84aa",
+          "visitor_id": 3,
+          "camera_id": "CAM 3",
+          "store_id": "store",
+          "event_type": "ENTRY",
+          "timestamp": 133.33333333333334,
+          "confidence": 0.25324469804763794,
+          "metadata": {
+            "frame_index": 4
+          }
+        }
+      },
+      {
+        "time": 233.33333333333334,
+        "type": "ENTRY",
+        "raw": {
+          "event_id": "666a26c1-c3a4-46ff-817c-4c35de26c0b9",
+          "visitor_id": 3,
+          "camera_id": "CAM 5",
+          "store_id": "store",
+          "event_type": "ENTRY",
+          "timestamp": 233.33333333333334,
+          "confidence": 0.7580724954605103,
+          "metadata": {
+            "frame_index": 7
+          }
+        }
+      },
+      {
+        "time": 1000.0,
+        "type": "EXIT",
+        "raw": {
+          "event_id": "dc778692-e08e-4f49-ae1e-6295bbae6935",
+          "visitor_id": 3,
+          "camera_id": "CAM 3",
+          "store_id": "store",
+          "event_type": "EXIT",
+          "timestamp": 1000.0,
+          "confidence": 1.0,
+          "metadata": {
+            "last_frame": 30
+          }
+        }
+      },
+      {
+        "time": 1766.6666666666665,
+        "type": "EXIT",
+        "raw": {
+          "event_id": "4c2d3cd3-03c1-4a2d-941d-d1970441ee8c",
+          "visitor_id": 3,
+          "camera_id": "CAM 5",
+          "store_id": "store",
+          "event_type": "EXIT",
+          "timestamp": 1766.6666666666665,
+          "confidence": 1.0,
+          "metadata": {
+            "last_frame": 53
+          }
+        }
+      }
+    ]
+  },
+  "VIS_004": {
+    "visitor_id": 4,
+    "camera_id": "CAM 3",
+    "events": [
+      {
+        "time": 166.66666666666666,
+        "type": "ENTRY",
+        "raw": {
+          "event_id": "7f8f0a53-60ba-42b8-aa32-424f9cbd7268",
+          "visitor_id": 4,
+          "camera_id": "CAM 1",
+          "store_id": "store",
+          "event_type": "ENTRY",
+          "timestamp": 166.66666666666666,
+          "confidence": 0.2783413529396057,
+          "metadata": {
+            "frame_index": 5
+          }
+        }
+      },
+      {
+        "time": 200.0,
+        "type": "EXIT",
+        "raw": {
+          "event_id": "9abf326c-c8c9-4a9a-94fe-e92993debd12",
+          "visitor_id": 4,
+          "camera_id": "CAM 1",
+          "store_id": "store",
+          "event_type": "EXIT",
+          "timestamp": 200.0,
+          "confidence": 1.0,
+          "metadata": {
+            "last_frame": 6
+          }
+        }
+      },
+      {
+        "time": 300.0,
+        "type": "ENTRY",
+        "raw": {
+          "event_id": "f539d3c1-0fba-48d2-8849-50616f375140",
+          "visitor_id": 4,
+          "camera_id": "CAM 3",
+          "store_id": "store",
+          "event_type": "ENTRY",
+          "timestamp": 300.0,
+          "confidence": 0.3156423568725586,
+          "metadata": {
+            "frame_index": 9
+          }
+        }
+      },
+      {
+        "time": 333.3333333333333,
+        "type": "EXIT",
+        "raw": {
+          "event_id": "a04e2d7f-904f-41ca-b11e-070ccd1a7de0",
+          "visitor_id": 4,
+          "camera_id": "CAM 3",
+          "store_id": "store",
+          "event_type": "EXIT",
+          "timestamp": 333.3333333333333,
+          "confidence": 1.0,
+          "metadata": {
+            "last_frame": 10
+          }
+        }
+      },
+      {
+        "time": 1266.6666666666665,
+        "type": "ENTRY",
+        "raw": {
+          "event_id": "655923a5-da72-4245-b207-a121b8d6baa6",
+          "visitor_id": 4,
+          "camera_id": "CAM 5",
+          "store_id": "store",
+          "event_type": "ENTRY",
+          "timestamp": 1266.6666666666665,
+          "confidence": 0.26139894127845764,
+          "metadata": {
+            "frame_index": 38
+          }
+        }
+      },
+      {
+        "time": 1266.6666666666665,
+        "type": "EXIT",
+        "raw": {
+          "event_id": "63f17ccb-e35e-4413-b92d-38dc743fb56b",
+          "visitor_id": 4,
+          "camera_id": "CAM 5",
+          "store_id": "store",
+          "event_type": "EXIT",
+          "timestamp": 1266.6666666666665,
+          "confidence": 1.0,
+          "metadata": {
+            "last_frame": 38
+          }
+        }
+      }
+    ]
+  },
+  "VIS_005": {
+    "visitor_id": 5,
+    "camera_id": "CAM 3",
+    "events": [
+      {
+        "time": 400.0,
+        "type": "ENTRY",
+        "raw": {
+          "event_id": "bfc9e655-c678-4a64-9180-890db65b5989",
+          "visitor_id": 5,
+          "camera_id": "CAM 3",
+          "store_id": "store",
+          "event_type": "ENTRY",
+          "timestamp": 400.0,
+          "confidence": 0.4533640742301941,
+          "metadata": {
+            "frame_index": 12
+          }
+        }
+      },
+      {
+        "time": 466.6666666666667,
+        "type": "EXIT",
+        "raw": {
+          "event_id": "2e6b614b-5a22-46fb-81c5-7a0e59e59ea6",
+          "visitor_id": 5,
+          "camera_id": "CAM 3",
+          "store_id": "store",
+          "event_type": "EXIT",
+          "timestamp": 466.6666666666667,
+          "confidence": 1.0,
+          "metadata": {
+            "last_frame": 14
+          }
+        }
+      },
+      {
+        "time": 1333.3333333333333,
+        "type": "ENTRY",
+        "raw": {
+          "event_id": "e783b727-0775-442c-b8e8-6dfae81949d4",
+          "visitor_id": 5,
+          "camera_id": "CAM 5",
+          "store_id": "store",
+          "event_type": "ENTRY",
+          "timestamp": 1333.3333333333333,
+          "confidence": 0.4570563733577728,
+          "metadata": {
+            "frame_index": 40
+          }
+        }
+      },
+      {
+        "time": 1433.3333333333333,
+        "type": "ENTRY",
+        "raw": {
+          "event_id": "a0f485fc-4177-460b-b08d-b3bced195174",
+          "visitor_id": 5,
+          "camera_id": "CAM 1",
+          "store_id": "store",
+          "event_type": "ENTRY",
+          "timestamp": 1433.3333333333333,
+          "confidence": 0.2864343225955963,
+          "metadata": {
+            "frame_index": 43
+          }
+        }
+      },
+      {
+        "time": 1600.0,
+        "type": "EXIT",
+        "raw": {
+          "event_id": "68a223ff-ee1b-4520-9f68-648281c9afc1",
+          "visitor_id": 5,
+          "camera_id": "CAM 1",
+          "store_id": "store",
+          "event_type": "EXIT",
+          "timestamp": 1600.0,
+          "confidence": 1.0,
+          "metadata": {
+            "last_frame": 48
+          }
+        }
+      },
+      {
+        "time": 1600.0,
+        "type": "ZONE_EXIT",
+        "zone_id": "ZONE_27",
+        "raw": {
+          "event_id": "c228fd68-6c00-48fe-9489-bbf6951c4db7",
+          "track_id": 1,
+          "camera_id": "CAM 1.mp4",
+          "zone_id": "ZONE_27",
+          "event_type": "ZONE_EXIT",
+          "timestamp_ms": 1600,
+          "duration_ms": 1567,
+          "visitor_id": 5
+        }
+      },
+      {
+        "time": 1633.0,
+        "type": "ZONE_ENTER",
+        "zone_id": "ZONE_32",
+        "raw": {
+          "event_id": "b7e9204b-a624-429c-a01a-c24ee4268214",
+          "track_id": 1,
+          "camera_id": "CAM 1.mp4",
+          "zone_id": "ZONE_32",
+          "event_type": "ZONE_ENTER",
+          "timestamp_ms": 1633,
+          "visitor_id": 5
+        }
+      }
+    ]
+  },
+  "VIS_002": {
+    "visitor_id": 2,
+    "camera_id": "CAM 5",
+    "events": [
+      {
+        "time": 166.66666666666666,
+        "type": "ENTRY",
+        "raw": {
+          "event_id": "07d8ae2b-b5ea-41d0-b274-eae02975e82e",
+          "visitor_id": 2,
+          "camera_id": "CAM 5",
+          "store_id": "store",
+          "event_type": "ENTRY",
+          "timestamp": 166.66666666666666,
+          "confidence": 0.6988391280174255,
+          "metadata": {
+            "frame_index": 5
+          }
+        }
+      },
+      {
+        "time": 233.33333333333334,
+        "type": "EXIT",
+        "raw": {
+          "event_id": "c64ab897-a3d3-44d9-a5f0-59ddbf9671ee",
+          "visitor_id": 2,
+          "camera_id": "CAM 5",
+          "store_id": "store",
+          "event_type": "EXIT",
+          "timestamp": 233.33333333333334,
+          "confidence": 1.0,
+          "metadata": {
+            "last_frame": 7
+          }
+        }
+      }
+    ]
+  },
+  "VIS_001": {
+    "visitor_id": 1,
+    "camera_id": "CAM 4",
+    "events": [
+      {
+        "time": 1400.0,
+        "type": "ENTRY",
+        "raw": {
+          "event_id": "6783dff8-bdda-40d1-aef3-558bb8a5d2d5",
+          "visitor_id": 1,
+          "camera_id": "CAM 4",
+          "store_id": "store",
+          "event_type": "ENTRY",
+          "timestamp": 1400.0,
+          "confidence": 0.3086636960506439,
+          "metadata": {
+            "frame_index": 42
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,150 @@
+[
+  {
+    "video_filename": "CAM 1.mp4",
+    "video_path": "CCTV Footage-20260529T160731Z-3-00144614ea\\CCTV Footage\\CAM 1.mp4",
+    "frame_width": 1920,
+    "frame_height": 1080,
+    "people_detected": 3,
+    "detections": [
+      {
+        "bbox": [
+          750.7855834960938,
+          494.5372009277344,
+          1023.8033447265625,
+          917.46240234375
+        ],
+        "confidence": 0.8046540021896362
+      },
+      {
+        "bbox": [
+          1427.0035400390625,
+          245.79647827148438,
+          1652.2166748046875,
+          625.29345703125
+        ],
+        "confidence": 0.551123321056366
+      },
+      {
+        "bbox": [
+          1349.4693603515625,
+          241.2584991455078,
+          1662.4757080078125,
+          638.2265625
+        ],
+        "confidence": 0.30296576023101807
+      }
+    ],
+    "annotated_image": "outputs\\debug\\CAM 1_detection.jpg"
+  },
+  {
+    "video_filename": "CAM 2.mp4",
+    "video_path": "CCTV Footage-20260529T160731Z-3-00144614ea\\CCTV Footage\\CAM 2.mp4",
+    "frame_width": 1920,
+    "frame_height": 1080,
+    "people_detected": 5,
+    "detections": [
+      {
+        "bbox": [
+          115.44204711914062,
+          397.7458190917969,
+          354.5696716308594,
+          992.2161865234375
+        ],
+        "confidence": 0.8518112897872925
+      },
+      {
+        "bbox": [
+          749.2227783203125,
+          372.9787902832031,
+          919.3934936523438,
+          902.577392578125
+        ],
+        "confidence": 0.8281160593032837
+      },
+      {
+        "bbox": [
+          616.8623657226562,
+          323.9092712402344,
+          748.33740234375,
+          691.7830810546875
+        ],
+        "confidence": 0.7088972330093384
+      },
+      {
+        "bbox": [
+          521.9121704101562,
+          341.8714599609375,
+          673.9375,
+          744.233642578125
+        ],
+        "confidence": 0.5347371101379395
+      },
+      {
+        "bbox": [
+          90.97990417480469,
+          327.7266540527344,
+          167.73199462890625,
+          545.245849609375
+        ],
+        "confidence": 0.28092461824417114
+      }
+    ],
+    "annotated_image": "outputs\\debug\\CAM 2_detection.jpg"
+  },
+  {
+    "video_filename": "CAM 3.mp4",
+    "video_path": "CCTV Footage-20260529T160731Z-3-00144614ea\\CCTV Footage\\CAM 3.mp4",
+    "frame_width": 1920,
+    "frame_height": 1080,
+    "people_detected": 2,
+    "detections": [
+      {
+        "bbox": [
+          1506.7340087890625,
+          254.74868774414062,
+          1867.597900390625,
+          882.6123657226562
+        ],
+        "confidence": 0.5604146122932434
+      },
+      {
+        "bbox": [
+          1504.0115966796875,
+          172.78028869628906,
+          1774.35107421875,
+          548.9120483398438
+        ],
+        "confidence": 0.2801612913608551
+      }
+    ],
+    "annotated_image": "outputs\\debug\\CAM 3_detection.jpg"
+  },
+  {
+    "video_filename": "CAM 4.mp4",
+    "video_path": "CCTV Footage-20260529T160731Z-3-00144614ea\\CCTV Footage\\CAM 4.mp4",
+    "frame_width": 1920,
+    "frame_height": 1080,
+    "people_detected": 0,
+    "detections": [],
+    "annotated_image": "outputs\\debug\\CAM 4_detection.jpg"
+  },
+  {
+    "video_filename": "CAM 5.mp4",
+    "video_path": "CCTV Footage-20260529T160731Z-3-00144614ea\\CCTV Footage\\CAM 5.mp4",
+    "frame_width": 1920,
+    "frame_height": 1080,
+    "people_detected": 1,
+    "detections": [
+      {
+        "bbox": [
+          1.6013031005859375,
+          57.60749816894531,
+          202.8233642578125,
+          505.5139465332031
+        ],
+        "confidence": 0.8777028322219849
+      }
+    ],
+    "annotated_image": "outputs\\debug\\CAM 5_detection.jpg"
+  }
+]

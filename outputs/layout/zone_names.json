@@ -1,0 +1,14 @@
+[
+  {
+    "zone_id": "CURRENT",
+    "name": "Current"
+  },
+  {
+    "zone_id": "REVISED",
+    "name": "Revised"
+  },
+  {
+    "zone_id": "SHEET1",
+    "name": "Sheet1"
+  }
+]

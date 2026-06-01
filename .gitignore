@@ -1,0 +1,39 @@
+# Ignore raw video files and datasets
+*.mp4
+*.avi
+*.mov
+
+# Raw data folders
+data/raw_videos/
+data/raw/
+raw_datasets/
+
+# YOLO / model weights
+*.pt
+*.pth
+
+# Ignore extracted tracking frames to avoid huge commits (keep curated demos only)
+outputs/tracking/**/frame_*.jpg
+
+# Virtual environments
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+
+# Environment files (should not be committed)
+.env
+.env.*
+
+# Logs
+logs/
+*.log
+
+# OS and editor files
+.DS_Store
+.vscode/
+.idea/
+
+# Ignore large raw outputs if present (but keep curated demo outputs)
+outputs/raw_videos/

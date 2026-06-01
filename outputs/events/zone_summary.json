@@ -1,0 +1,32 @@
+[
+  {
+    "zone_id": "ZONE_27",
+    "visits": 1,
+    "avg_dwell_ms": 0
+  },
+  {
+    "zone_id": "ZONE_32",
+    "visits": 1,
+    "avg_dwell_ms": 0
+  },
+  {
+    "zone_id": "ZONE_26",
+    "visits": 2,
+    "avg_dwell_ms": 0
+  },
+  {
+    "zone_id": "ZONE_3",
+    "visits": 4,
+    "avg_dwell_ms": 0
+  },
+  {
+    "zone_id": "ZONE_4",
+    "visits": 1,
+    "avg_dwell_ms": 0
+  },
+  {
+    "zone_id": "ZONE_2",
+    "visits": 1,
+    "avg_dwell_ms": 0
+  }
+]

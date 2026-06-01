@@ -1,0 +1,13 @@
+{
+  "unique_visitors": 27,
+  "avg_visit_duration": 98.71794871794873,
+  "avg_zone_count": 0.0,
+  "most_visited_zone": {
+    "zone_id": "ZONE_3",
+    "visits": 4
+  },
+  "least_visited_zone": {
+    "zone_id": "ZONE_2",
+    "visits": 1
+  }
+}

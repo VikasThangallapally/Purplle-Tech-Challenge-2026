@@ -1,0 +1,32 @@
+[
+  {
+    "image": "outputs\\debug\\zone_gallery\\01_ZONE_27_trk1_f1.png",
+    "zone_id": "ZONE_27",
+    "track_id": 1,
+    "timestamp_ms": 33
+  },
+  {
+    "image": "outputs\\debug\\zone_gallery\\02_ZONE_32_trk1_f49.png",
+    "zone_id": "ZONE_32",
+    "track_id": 1,
+    "timestamp_ms": 1633
+  },
+  {
+    "image": "outputs\\debug\\zone_gallery\\03_ZONE_26_trk1_f73.png",
+    "zone_id": "ZONE_26",
+    "track_id": 1,
+    "timestamp_ms": 2433
+  },
+  {
+    "image": "outputs\\debug\\zone_gallery\\04_ZONE_26_trk1_f77.png",
+    "zone_id": "ZONE_26",
+    "track_id": 1,
+    "timestamp_ms": 2566
+  },
+  {
+    "image": "outputs\\debug\\zone_gallery\\05_ZONE_3_trk4_f27.png",
+    "zone_id": "ZONE_3",
+    "track_id": 4,
+    "timestamp_ms": 900
+  }
+]

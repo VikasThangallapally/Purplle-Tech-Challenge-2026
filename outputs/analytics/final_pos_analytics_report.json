@@ -1,0 +1,23 @@
+{
+  "pos_summary": {
+    "total_transactions": 24,
+    "total_revenue": 34331.709999999985,
+    "average_order_value": 1430.487916666666,
+    "total_items_sold": 117,
+    "duplicate_line_count": 0
+  },
+  "conversion_report": {
+    "unique_visitors": 27,
+    "transactions": 24,
+    "conversion_rate": 88.88888888888889,
+    "total_revenue": 34331.709999999985,
+    "average_order_value": 1430.487916666666
+  },
+  "validation": {
+    "revenue_gt_zero": true,
+    "transactions_gt_zero": true,
+    "conversion_rate_valid": true,
+    "no_duplicate_transactions": true,
+    "duplicate_line_count": 0
+  }
+}
