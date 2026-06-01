@@ -5,14 +5,14 @@
       "cctv_mp4_files_found": 5,
       "videos_processed": 5,
       "frames_processed": 500,
-      "tracking_results_path": "C:\\Users\\vikas\\Downloads\\Stote Intelligence\\outputs\\tracking\\tracking_results.json"
+      "tracking_results_path": "outputs/tracking/tracking_results.json"
     },
     "event_files": {
       "status": true,
       "events_count": 87,
       "zone_events_count": 19,
-      "events_path": "C:\\Users\\vikas\\Downloads\\Stote Intelligence\\outputs\\events\\events.jsonl",
-      "zone_events_path": "C:\\Users\\vikas\\Downloads\\Stote Intelligence\\outputs\\events\\zone_events.jsonl"
+      "events_path": "outputs/events/events.jsonl",
+      "zone_events_path": "outputs/events/zone_events.jsonl"
     },
     "analytics_files": {
       "status": true,

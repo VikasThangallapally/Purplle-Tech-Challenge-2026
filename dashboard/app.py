@@ -30,11 +30,21 @@ def main() -> None:
     st.set_page_config(page_title="Retail Business Dashboard", layout="wide")
     st.title("Retail Store Intelligence Dashboard")
 
-    store_metrics_path = BASE_DIR / "outputs" / "analytics" / "store_metrics.json"
-    funnel_path = BASE_DIR / "outputs" / "analytics" / "funnel.json"
-    conversion_path = BASE_DIR / "outputs" / "analytics" / "conversion_report.json"
-    product_metrics_path = BASE_DIR / "outputs" / "analytics" / "product_metrics.json"
-    zone_summary_path = BASE_DIR / "outputs" / "events" / "zone_summary.json"
+    def _prefer_demo(*parts: str) -> Path:
+        """Prefer files under `outputs_demo/` if present, otherwise fall back to `outputs/`.
+
+        This allows the dashboard to be run on a clean submission that ships curated demo
+        artifacts in `outputs_demo/` without requiring the full CCTV dataset.
+        """
+        demo_path = BASE_DIR.joinpath("outputs_demo", *parts)
+        prod_path = BASE_DIR.joinpath("outputs", *parts)
+        return demo_path if demo_path.exists() else prod_path
+
+    store_metrics_path = _prefer_demo("analytics", "store_metrics.json")
+    funnel_path = _prefer_demo("analytics", "funnel.json")
+    conversion_path = _prefer_demo("analytics", "conversion_report.json")
+    product_metrics_path = _prefer_demo("analytics", "product_metrics.json")
+    zone_summary_path = _prefer_demo("events", "zone_summary.json")
 
     store_metrics = _load_json(store_metrics_path)
     funnel = _load_json(funnel_path)
