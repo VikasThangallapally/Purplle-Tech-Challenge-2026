@@ -19,6 +19,13 @@ outputs/tracking/**/frame_*.jpg
 .venv/
 venv/
 
+# Common virtualenv/CPython local folders
+Lib/
+Scripts/
+Include/
+pyvenv.cfg
+pip-selfcheck.json
+
 # Python cache
 __pycache__/
 
